@@ -2,10 +2,9 @@
 /* Your CSS Code here. */
 #btn{
 	background-color: black;
+	color: white;
     border-radius: 5px;
     
-    color: white;
-    cursor: pointer;
 }
 
 #btn:hover {
